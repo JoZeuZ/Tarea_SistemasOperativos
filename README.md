@@ -7,7 +7,7 @@ Para poder hacer una correcta ejecución de cada uno de los programas creados se
 3. OpenMP con comando sudo apt-get install libomp-dev.
 
 Todos los comandos anteriores deben ser escritos en la terminal de Linux.
-Luego escribir make en la terminal para compilar los programas automaticamente.
+
 
 ## Secuencial
 
